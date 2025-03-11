@@ -29,3 +29,4 @@ function decrypt($encryptedText, $secretKey) {
     // Return the decrypted string
     return $decryptedText;
 }
+?>
